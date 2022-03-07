@@ -12,6 +12,6 @@ CEDiR is a research group within the Faculty of Education at the University of C
 <br/><br/>
 ## Contact details:
 
-To get in touch, please email me at: meb78@cam.ac.uk
+To get in touch, please email Meaghan at: meb78@cam.ac.uk
 
 Contact details for T-SEDA and CEDiR can be found on their websites, as linked above.
