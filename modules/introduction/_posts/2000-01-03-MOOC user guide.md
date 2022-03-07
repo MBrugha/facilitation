@@ -8,12 +8,12 @@ The course has been created using a template from P2P University, which strives 
 
 [About the course](https://mbrugha.github.io/facilitation/about/): This page offers more information about me as well as my contact details, should you have any questions, concerns, or technical difficulties.
 
-[Discussion forum](https://www.edudialogue.org/forum/facilitation-selfpaced/): This forum was built for you to discuss the weekly course materials, activities and for you to engage with one another about your experiences and challenges. There will be a different channel for each week. There will also be two other channels: (1) an [introductions channel](https://www.edudialogue.org/forum/facilitation-selfpaced/introductions-4/#post-306) for you to post an introduction to yourself, and (2) a [general channel](https://www.edudialogue.org/forum/facilitation-selfpaced/general-5/) for you to put any general comments or questions that might not fit within just one week’s channel.
+[Discussion forum](https://www.edudialogue.org/forum/): This forum was built for participants in the live cohorts of the course to discuss the weekly course materials, activities and for you to engage with one another about your experiences and challenges. There will be a different channel for each week. There will also be two other channels: (1) an introductions channel for you to post an introduction to yourself, and (2) a general channel for you to put any general comments or questions that might not fit within just one week’s channel.
 
 
 **_How to register on the discussion forum:_**
 
-* Follow [this link](https://www.edudialogue.org/forum/facilitation-selfpaced/) and click on ‘Create Account’.
+* Follow [this link](https://www.edudialogue.org/forum/) and click on ‘Create Account’.
 
 ![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot1.png)
 
